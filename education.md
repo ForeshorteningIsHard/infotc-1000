@@ -5,6 +5,9 @@ spite of that, I was originally empassioned to join IT due to the many doors it 
 the entertainment industry, hence the [Certificate in Media Technology Design](http://catalog.missouri.edu/collegeofengineering/additionalcertificatesminors/cert-media-technology-design/) and a Minor 
 in Art. At this point, however, I don't know what I am or what I like anymore. My _expected_
  graduation is likely innaccurate, but it's all I got besides my high school diploma.
+ 
+ ![image](https://user-images.githubusercontent.com/101874703/159097573-fe785959-8cc2-425b-978e-1591136df042.png)
+
 
 **University of Missouri**
 - Bachelor of Science in Computer Science

@@ -4,7 +4,7 @@
 - Learned about various fields of research as well as made connections with researchers.
 
 
-[**Home Page**](activities.md)
+[**Home Page**](README.md)
 
 [Education](education.md)
 

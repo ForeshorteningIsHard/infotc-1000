@@ -1,1 +1,1 @@
-# infotc-1000
+## Mid Term Project

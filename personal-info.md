@@ -8,3 +8,12 @@
  **Email** aadnd5@umsystem.edu
  
  
+[**Home Page**](README.md)
+
+[Activities](activities.md)
+
+[Education](education.md)
+
+[Experience](experience.md)
+
+[Portfolio](portfolio.md)

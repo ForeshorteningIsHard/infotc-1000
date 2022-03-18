@@ -3,7 +3,7 @@ I previously particpated more in extracurricular activities and organizations, a
 I have fallen apart, lost motivation, lost track, and ultimately feel as if I've lost myself
 in the midst of it all. In all honesty I have considered dropping out or changing my major, 
 but none interest me. But when I did previously engage in school, besides [fencing](https://mizzourec.com/programs/sports-competition/club-sports/fencing/), I was a 
-part of the Office of Undergraduate Research.
+part of the _Office of Undergraduate Research_.
 
 ![image](https://user-images.githubusercontent.com/101874703/159096781-c97dc6cb-e067-4af8-a3b5-36f213ff0bb8.png)
 
